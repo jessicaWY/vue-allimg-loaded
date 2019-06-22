@@ -6,11 +6,7 @@
 
 <script>
 export default {
-  name: 'app',
-  data () {
-    return {
-    }
-  }
+  name: 'vue-allimg-loaded'
 }
 </script>
 
